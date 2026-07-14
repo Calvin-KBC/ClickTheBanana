@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Calvin-KBC/ClickTheBanana#readme",
   "dependencies": {
+    "better-sqlite3": "^12.11.1",
     "express": "^5.2.1"
   }
 }
