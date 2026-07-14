@@ -1,0 +1,23 @@
+#button{
+    min-height: 100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+#buttonContainer{
+    display:flex;
+    flex-direction: column;
+}
+
+#bananaButton{
+    width:200px;
+}
+
+#bananaImg{
+    width:200px;
+}
+
+#counterPosition{
+    font-size:50px;
+    margin-bottom:20px;
+}
